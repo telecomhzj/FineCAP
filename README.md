@@ -24,6 +24,3 @@ If you find this work useful, please cite:
   year={2026}
 }
 ```
-
-## Acknowledgment
-This work was supported in part by the National Natural Science Foundation of China (Grant 62225601, U23B2052), in part by the Beijing Natural Science Foundation Project No. L242025, and in part by the Beijing Key Laboratory of Multimodal Data Intelligent Perception and Governance.
